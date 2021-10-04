@@ -1,8 +1,6 @@
 Projeto realizado com HTML E CSS.
 
-Objetivo: Transformar essa arte em um email marketing feito em HTML.
-
-<img src="imagemTeste.jpg">
+Objetivo: Transformar a arte disponibilizada ("imgagemTeste" que se encontra dentro da pasta do projeto) em um email marketing feito em HTML.
 
 
 RESULTADO: https://dericklfandrade.github.io/teste-empresa-cargo-front-end/
