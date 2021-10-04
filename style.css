@@ -1,0 +1,289 @@
+body {
+    
+  
+ margin-left: 50%;
+ 
+ transform: translate(-50%);
+}
+
+header img{
+    width: 700px;
+ margin-left: 0%;
+ margin-top: 0%;
+
+}
+#contP {
+    margin-top: -4px;
+    width: 700px;
+    height: 450px;
+    background: white;
+  
+   
+}
+#texto {
+    position: absolute;
+    transform: translate(140px, 50px);
+    width: 370px;
+}
+#lembre {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 25px;
+    color: rgb(221, 48, 48);
+    font-size: 16pt;
+    font-weight: bold;
+}
+#pesquisa {
+    font-size: 16pt;
+    font-weight: bold;
+    color: rgb(122, 122, 122);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#linha{
+    margin-left: 110px;
+    margin-top: 10px;
+    width: 150px;
+    height: 2px;
+    background: rgb(221, 48, 48);
+}
+#icone {
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 110px;
+}
+#textoIcone {
+    margin-left: 20px;
+    position: absolute;
+    width: 320px;
+    font-size: 13pt;
+    color: rgb(107, 106, 106);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#contamos {
+    position: absolute;
+    margin-left: -35px;
+    margin-top: 80px;
+    width: 600px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+#botão {
+    position: absolute;
+    margin-left: 10px;
+    margin-top:140px;
+    width: 300px;
+    background: rgb(221, 48, 48);
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 13pt;
+    
+}
+#logoToyota {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 70px;
+}
+#logoDirect {
+    position: absolute;
+    margin-top: 145px;
+    margin-left: 260px;
+}
+footer{
+    width: 700px;
+    height: 340px;
+    background: rgb(232, 235, 236);
+    padding-top: 10px;
+}
+footer p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14pt;
+    color: rgb(133, 132, 132);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#coluna1 {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: -15px;
+}
+#equipe{
+    font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#consultas {
+    margin-top: -15px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 175px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#telefone{
+    margin-top: 50px;
+    font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#numero {
+    margin-top: -15px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#numero2 {
+    margin-top: 5px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+#capitais {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt; 
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+#regiões {
+     margin-top: 25px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#email {
+     position: absolute;
+    margin-top: 60px;
+     font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#endereço {
+     margin-top: 80px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#coluna2 {
+    position: absolute;
+    margin-left: 280px;
+    margin-top: -15px;
+}
+
+#sac{
+    font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#exclusivo {
+    margin-top: -15px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 175px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#telefoneCol2{
+    margin-top: 80px;
+    font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#numeroCol2 {
+    margin-top: -15px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#emailCol2 {
+     position: absolute;
+    margin-top: 60px;
+     font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);
+}
+#endereçoCol2 {
+     margin-top: 80px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+}
+
+#coluna3 {
+     position: absolute;
+    margin-left: 480px;
+    margin-top: -15px;
+}
+#DA {
+    width: 130px;
+  font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);  
+}
+#telefoneCol3 {
+  margin-top: -15px;
+  width: 130px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+     color: rgb(126, 121, 121);
+    font-weight: bold;
+    
+}
+
+#ouvidoria {
+    margin-top: 80px;
+     font-size: 9pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(83, 83, 83);  
+}
+
+#numeroCol3 {
+  margin-top: -15px;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 9pt;
+    text-align: left;
+    width: 220px;
+    color: rgb(126, 121, 121);
+    font-weight: bold;
+}
